@@ -1,0 +1,404 @@
+id,solic,mail,lab,exter,ling,num_ani,time,total_time,doses,cep,cep_num_ani,id_orig,caix_est,id_fim,caix_exp,data_inicio,data_solic,data_forn,data_fim
+2,Tania,tschepainski@gmail.com,Usuário Externo,x,Balb/c,2,dia,3,2,83050140,666,666,AAA,666,AAA,1421625600,1411391851,666,1411392413
+6,Hálisson Tesseroli Miot,halissontm@gmail.com,LPEP,-,Swiss,4,mes,2,5,0000000000,666,16,1-3-2-16,106,4-1-1-106,1412121600,1411583300,1412619416,1418727743
+4,Tania,tschepainski@gmail.com,Usuário Externo,.,Balb/c,2,dia,2,2,81300,666,666,AAA,666,AAA,1420070400,1411491911,666,1411491957
+5,Claudemir de Souza,claudemir.s@tecpar.br,VIROMOL,-,Swiss,11,dia,30,5,555555,666,14,1-2-7-14,113,,1412899200,1411579273,1412620096,1422037389
+7,Camila Oliveira,halissontm@gmail.com,LPEP,-,Balb/c,6,mes,2,5,0000000000,666,50,2-3-1-50,108,4-1-3-108,1412121600,1411583355,1412082161,1418727745
+8,Eloise P. G. Slompo,epgslompo@tecpar.br,LPEP,-,Swiss,3,mes,3,5,A confirmar,666,196,5-7-8-196,107,4-1-2-107,1414108800,1411761400,1412018489,1417609413
+9,Phileno ,tschepainski@gmail.com,Usuário Externo,UEL,Swiss,25,mes,2,3,3433,666,20,1-3-6-20,1,1-1-1-1,1412640000,1411997594,1412184811,1412184811
+10,Phileno,tschepainski@gmail.com,Usuário Externo,UEL,Balb/c,120,dia,40,12,00000,666,54,2-3-5-54,1,1-1-1-1,1417392000,1412018821,1412185905,1412185905
+24,Fabíola Barbieri Holetz,biaholetz@gmail.com,LABREG,-,Swiss,2,dia,2,0,LW-15/13,666,701017,1-1-7-7<br />1-1-7-7,1150101115,<br />4-2-3-115,1417150800,1416943388,1417608891,1422037741
+12,Phileno,tschepainski@gmail.com,Usuário Externo,UEL,C57BL06WT,120,dia,12,2,000000,666,96,3-4-5-96,1,1-1-1-1,1412726400,1412187268,1412188670,1412188670
+13,Tania,tschepainski@gmail.com,Usuário Externo,ICC,Balb/c,8,dia,2,5,0000,666,666,AAA,666,AAA,1421452800,1412706065,666,1415193499
+14,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,LPEP,Balb/c,10,dia,1,1,Sim,666,41010140,2-1-6-41<br />2-1-5-40,1090101109,4-1-4-109<br />4-1-4-109,1414195200,1413234228,1413912595,1413912595
+15,HELISA HELENA WIPPEL,helisa.wippel@hotmail.com,VIROMOL,-,Swiss,3,mes,2,5,LW15-13,666,666,AAA,666,AAA,1414972800,1414712779,666,1415021136
+16,Hálisson Tesseroli Miot,halissontm@gmail.com,LABREG,-,Swiss,4,mes,2,5,LW-15/13,666,6,1-1-6-6,112,4-1-7-112,1416182400,1414785577,1415208407,1418727795
+17,HELISA HELENA WIPPEL,helisa.wippel@hotmail.com,LABREG,-,Swiss,3,mes,2,5,LW-15/13,666,13,1-2-6-13,110,4-1-5-110,1414972800,1414805935,1415207088,1422037531
+18,HELISA HELENA WIPPEL,helisa.wippel@hotmail.com,LABREG,-,Balb/c,2,mes,2,5,LW-15/13,666,45,2-2-3-45,111,4-1-6-111,1414972800,1414805985,1415207351,1422037541
+19,Giovanny mazzarotto,mazzarotto@tecpar.br,Usuário Externo,biotério,S129WT,18,dia,21,1,LW-XX/XX,666,2147483647,5-1-8-148<br />5-1-6-146<,2147483647,1-1-6-6<br />1-1-6-6<br /,1415682000,1415724932,1415725676,1415725676
+20,Giovanny mazzarotto,mazzarotto@tecpar.br,Usuário Externo,Biotério,S129KO,18,dia,21,1,LW-XX/XX,666,2147483647,5-4-7-171<br />5-4-6-170<,2147483647,1-1-6-6<br />1-1-6-6<br /,1415682000,1415725346,1415725943,1415725943
+21,Lia Carolina Almeida Soares de Medeiros,liacasm@gmail.com,LBL,-,Balb/c,3,mes,4,5,LW-15/13,666,36010136,2-1-1-36<br />2-1-1-36,1140101114,<br />4-2-2-114,1418014800,1415814818,1417608797,1427739364
+22,Beatriz Santana Borges,liacasm@gmail.com,LBL,-,Balb/c,3,mes,4,5,LW-15/13,666,40,2-1-5-40,116,4-2-4-116,1418014800,1415814903,1417609202,1427739369
+23,Jaqueline de Oliveira Rosa,liacasm@gmail.com,LBL,-,Balb/c,3,mes,4,5,LW-15/13,666,45,2-2-3-45,117,4-2-5-117,1418014800,1415814956,1417609219,1427739375
+25,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,UEL,Swiss,38,dia,1,0,LW-XX/XX,666,2147483647,1-3-7-21<br />1-3-6-20,2147483647,1-1-6-6<br />1-1-6-6,1418446800,1418062157,1418321007,1418321007
+26,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,UEL,C57BL06WT,46,dia,1,0,LW-XX/XX,666,2147483647,3-3-7-91<br />3-3-1-85,2147483647,1-1-2-2<br />1-1-2-2,1418446800,1418062230,1418321602,1418321602
+27,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,UEL,Balb/c,77,dia,1,0,LW-XX/XX,666,2147483647,2-5-1-64<br />2-4-7-63,2147483647,1-1-2-2<br />1-1-2-2,1418446800,1418062297,1418747794,1418747794
+28,Fabíola Barbieri Holetz,biaholetz@gmail.com,LABREG,-,Swiss,8,dia,1,0,LW-15/13,925,666,AAA,666,AAA,1418101200,1418132139,666,1420648900
+34,Wilian Correa de Macedo,wilan.macedo23@gmail.com,LABGEN,-,Balb/c,6,mes,3,4,LW-15/13,666,666,AAA,666,AAA,1424062800,1423749804,666,1423749905
+31,Stenio Perdigão Fragoso,sfragoso@fiocruz.br,BIOMOLTRIP,-,Balb/c,5,mes,2,4,LW-15/13,666,2147483647,2-4-6-62,2147483647,2-4-6-62,1423458000,1423241272,1423566868,1434723128
+32,Guilherme,gfsilveira@gmail.com,Usuário Externo,Teste,Balb/c,1,mes,1,1,LW-15/13,666,1960101195,5-7-8-196<br />5-7-7-195,1930101194,5-7-5-193<br />5-7-6-194,1451624400,1423563569,1423734484,1423734484
+33,Guilherme,gfsilveira@gmail.com,Usuário Externo,Teste,Balb/c,1,dia,1,1,LW-15/13,666,666,AAA,666,AAA,1451624400,1423563880,666,1424368726
+35,Wilian Correa de Macedo,wilan.macedo23@gmail.com,LABGEN,-,Balb/c,6,mes,3,4,LW-15/13,666,61,2-4-5-61,107,4-1-2-107,1424062800,1423749845,1423829029,1434723129
+36,wander pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina,Balb/c,58,dia,30,1,LW-XX/XX,666,2147483647,2-5-1-64<br />2-4-4-60<br,2147483647,1-1-5-5<br />1-1-5-5<br /,1425186000,1424525927,1427733645,1427733645
+37,wander pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina,C57BL06WT,36,dia,30,1,LW-XX/XX,666,2147483647,3-3-1-85<br />3-2-6-83<br,2147483647,1-1-5-5<br />1-1-5-5<br /,1425186000,1424525991,1427733226,1427733226
+38,Guilherme,guilherme.silveira@fiocruz.br,Usuário Externo,Teste,Balb/c,1,dia,1,1,NA,666,666,AAA,666,AAA,1451624400,1424713334,666,1424714531
+39,Guilherme,gfsilveira@gmail.com,VIROMOL,-,Balb/c,1,mes,1,1,Teste,666,196,5-7-8-196,195,5-7-7-195,1451624400,1424713847,1424715166,1425648987
+40,Guilherme,gsilveira@tecpar.br,VIROMOL,-,Balb/c,1,dia,2,1,Teste,666,193,5-7-5-193,5,1-1-5-5,1451624400,1424714038,1426006457,1426524649
+41,Henrique preti,hpreti@gmail.com,LABGEN,-,Balb/c,6,dia,75,4,LW-15/13,666,58,2-4-2-58,108,4-1-3-108,1425186000,1424804234,1424871540,1434723129
+42,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,BIOVET,Balb/c,3,mes,3,5,LW-XX/XX,666,45,2-2-3-45,110,4-1-5-110,1425013200,1424808621,1424872149,1424872149
+43,Lia Carolina Almeida Soares de Medeiros,liacasm@gmail.com,LBL,-,Balb/c,3,mes,3,5,LW-15/13,666,36,2-1-1-36,110,4-1-5-110,1425618000,1425558788,1425561094,1450285269
+44,Beatriz Santana Borges,liacasm@gmail.com,LBL,-,Balb/c,3,mes,3,5,LW-15/13,666,40,2-1-5-40,111,4-1-6-111,1425618000,1425558831,1425561095,1434723131
+45,Jaqueline de Oliveira Rosa,liacasm@gmail.com,LBL,-,Balb/c,3,mes,3,5,LW-15/13,666,55,2-3-6-55,112,4-1-7-112,1425618000,1425558873,1425561095,1450285272
+46,Halisson Miot,halissontm@gmail.com,LABREG,-,Swiss,4,mes,2,4,LW-15/13,666,2147483647,1-1-5-5<br />1-1-5-5<br /,2147483647,<br /><br />4-2-1-113,1425873600,1425753884,1425906415,1425918439
+47,MAX,taniars@tecpar.br,Usuário Externo,UFPR,Balb/c,6,dia,1,2,LW-XX/XX,666,56010154,2-3-7-56<br />2-3-5-54,501015,1-1-5-5<br />1-1-5-5,1426651200,1426698500,1426699161,1426699161
+48,Lia Carolina Almeida Soares de Medeiros,liacasm@gmail.com,LBL,-,Balb/c,3,mes,3,5,LW-15/13,666,44,2-2-2-44,113,4-2-1-113,1426824000,1426701391,1427462554,1450285272
+49,Helisa Helena,helisa.wippel@hotmail.com,LABREG,-,Balb/c,4,mes,2,5,LW-15/13,666,49010144,2-2-7-49<br />2-2-2-44,1180101115,4-2-6-118<br />4-2-3-115,1427860800,1427477494,1427738690,1434723134
+50,Felipe Jansen Rabello,felipe.jansen@yahoo.com.br,BIOMOLTRIP,-,Swiss,12,mes,2,4,LW-15/13,666,801016,1-2-1-8<br />1-1-6-6,1160101114,4-2-4-116<br />4-2-2-114,1427947200,1427745556,1427809168,1434723133
+51,Letusa Albrecht,letusaa@gmail.com,LABREG,-,Balb/c,6,dia,10,1,LW-15/13,666,40,2-1-5-40,117,4-2-5-117,1428465600,1428332811,1428423831,1450285272
+52,Max Ingberman,maxebb@gmail.com,Usuário Externo,UFPR,Balb/c,3,mes,3,4,787/03-BL,666,44,2-2-2-44,54,2-3-5-54,1430798400,1430494740,1430768353,1430768353
+53,Kelly,taniars@tecpar.br,VIROMOL,-,Balb/c,2,dia,1,0,LW-15/13,666,41,2-1-6-41,120,4-3-1-120,1430798400,1430851927,1430852423,1430852629
+54,Kelly,taniars@tecpar.br,Usuário Externo,Viromol,C57BL06WT,2,dia,1,1,LW-XX/XX,666,72,3-1-2-72,41,2-1-6-41,1430798400,1430854686,1430854821,1430854821
+55,Wander,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina,Balb/c,16,dia,1,1,LW-XX/XX,666,2147483647,2-2-1-43<br />2-1-5-40<br,2147483647,2-5-6-69<br />2-1-6-41<br,1430884800,1430922164,1430922476,1430922476
+56,Wander,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina,C57BL06WT,25,dia,1,1,LW-XX/XX,666,2147483647,3-3-2-86<br />3-2-7-84<br,2147483647,2-5-2-65<br />2-1-3-38<br,1430884800,1430922247,1430922629,1430922629
+57,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Viromol ICC,S129KO,1,dia,0,0,LW-XX/XX,666,69,2-5-6-69,65,2-5-2-65,1431057600,1430936491,1432122574,1432122574
+58,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Viromol ICC,S129WT,1,dia,0,0,LW-XX/XX,666,70,2-5-7-70,62,2-4-6-62,1431057600,1430936545,1432122575,1432122575
+59,HELISA HELENA WIPPEL,helisa.wippel@hotmail.com,LABREG,-,Swiss,3,mes,2,3,LW-15/13,666,13,1-2-6-13,119,4-2-7-119,1431662400,1431608708,1431629813,1435859225
+60,giovanny mazzarotto,mazzarotto@tecpar.br,LABGEN,-,Swiss,1,dia,1,0,LW-15/13,666,1,1-1-1-1,37,2-1-2-37,1432440000,1432660208,1432660446,1432660508
+61,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129KO,1,dia,0,0,LW-XX/XX,666,1720101172,5-4-8-172<br />5-4-8-172,1240101124,4-3-5-124<br />4-3-5-124,1432872000,1432743700,1434643641,1434643641
+62,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129WT,1,dia,0,0,LW-XX/XX,666,105,3-5-7-105,120,4-3-1-120,1432872000,1432743749,1434722246,1434722246
+63,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina-UEL,Balb/c,140,dia,30,1,LW-XX/XX,666,2147483647,3-5-2-100<br />2-5-7-70<b,2147483647,4-3-7-126<br />3-1-3-73<b,1437364800,1433159038,1439223584,1439223584
+64,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina-UEL,C57BL06WT,45,dia,30,1,LW-XX/XX,666,2147483647,3-4-6-97<br />3-2-7-84<br,2147483647,3-4-5-96<br />3-4-4-95<br,1436932800,1433169109,1439228128,1439228128
+65,Rafael Luis Kessler,kessler@tecpar.br,LABGEN,-,Swiss,20,mes,1,0,LW-15/13,666,27,1-4-6-27,107,4-1-2-107,1434340800,1434346624,1434724190,1443013252
+66,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Viromol ICC,S129KO,6,dia,2,1,LW-XX/XX,666,1890101186,5-7-1-189<br />5-6-6-186,1080101106,4-1-3-108<br />4-1-1-106,1435291200,1435325225,1435342206,1435342206
+67,Taissa Ricciardi Jorge,taissarj@gmail.com,Usuário Externo,ViroMol,Balb/c,3,dia,70,5,LW-XX/XX,666,39,2-1-4-39,106,4-1-1-106,1435809600,1435672762,1435772393,1435772393
+68,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129KO,2,dia,0,0,LW-XX/XX,666,149,5-2-1-149,1,1-1-1-1,1436846400,1436890280,1436901423,1436901423
+69,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129KO,2,dia,0,0,LW-XX/XX,666,137,4-5-4-137,111,4-1-6-111,1436846400,1436890284,1438966898,1438966898
+70,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129KO,2,dia,0,0,LW-XX/XX,666,138,4-5-5-138,118,4-2-6-118,1436846400,1436890288,1438966900,1438966900
+71,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129KO,2,dia,0,0,LW-XX/XX,666,139,4-5-6-139,129,4-4-3-129,1436846400,1436890290,1438966903,1438966903
+72,Felipe Jansen Rabello,felipe.jansen@yahoo.com.br,BIOMOLTRIP,-,Swiss,7,mes,2,4,LW-15/13,666,1,1-1-1-1,106,4-1-1-106,1437969600,1437768628,1438130659,1450285265
+73,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Viromol ICC,S129KO,2,dia,0,0,LW-XX/XX,666,149,5-2-1-149,108,4-1-3-108,1438574400,1438367340,1438376531,1438376531
+74,Rosiane Valeriano,zane.valeriano@hotmail.com,LABREG,-,Balb/c,5,dia,1,1,LW-15/13,666,63010163,2-4-7-63<br />2-4-7-63,1080101108,<br />4-1-3-108,1438747200,1438604189,1438689896,1443723806
+75,Beatriz Gomes Guimarães,beatriz.guimaraes@fiocruz.br,LPEP,-,Swiss,8,mes,2,5,LW-15/13,666,2147483647,1-4-2-23<br />1-2-4-11<br,2147483647,<br /><br /><br /><br />4,1440561600,1439403774,1440423911,1458760414
+76,Ana Luiza  Pamplona Mosimann,taniars@tecpar.br,Usuário Externo,Virologia ,Balb/c,4,mes,2,4,LW-XX/XX,666,38,2-1-3-38,83,3-2-6-83,1439352000,1439472099,1439475938,1439475938
+77,Felipe Jansen Rabello,felipe.jansen@yahoo.com.br,BIOMOLTRIP,-,Balb/c,6,mes,3,4,LW-15/13,666,50010143,2-3-1-50<br />2-2-1-43,1110101109,4-1-6-111<br />4-1-4-109,1440129600,1440046911,1440091426,1450285271
+78,Beatriz Gomes Guimarães,beatriz.guimaraes@fiocruz.br,LPEP,-,Swiss,1,mes,2,5,LW-15/13,666,10010110,1-2-3-10<br />1-2-3-10,1150101115,<br />4-2-3-115,1440561600,1440157940,1440424114,1450285272
+79,Silvio Zanata,gio.mazzarotto@gmail.com,Usuário Externo,UFPR,Balb/c,42,dia,0,1,LW-XX/XX,666,2147483647,2-5-7-70<br />2-5-4-67<br,2147483647,3-3-6-90<br />3-3-5-89<br,1441252800,1441388081,1441388212,1441388212
+80,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1441620135,666,1442013328
+81,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1441944830,666,1442013373
+82,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1441947065,666,1442013455
+83,Guilherme,gfsilveira@gmail.com,Usuário Externo,Teste,Balb/c,1,dia,1,1,NA,666,666,AAA,666,AAA,1451624400,1442013553,666,1442319261
+84,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,S129KO,9,dia,3,1,LW-XX/XX,666,1890101186,5-7-1-189<br />5-6-6-186,1160101116,4-2-4-116<br />4-2-4-116,1442548800,1442507668,1442601475,1442601475
+85,HELISA HELENA WIPPEL,helisa.wippel@hotmail.com,LABREG,-,Balb/c,2,mes,2,3,LW-15/13,666,44,2-2-2-44,116,4-2-4-116,1442808000,1442595239,1443013124,1448380828
+86,HELISA HELENA WIPPEL,helisa.wippel@hotmail.com,LABREG,-,Balb/c,2,mes,2,3,LW-15/13,666,44,2-2-2-44,118,4-2-6-118,1442808000,1442595474,1443013150,1448380830
+87,Tania,taniarsbio@gmail.com,Usuário Externo,ICC - teste,Balb/c,1,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1451624400,1443099860,666,1443635957
+88,Alexandre Haruo Inoue,haruobiomed@gmail.com,LABREG,-,Balb/c,15,dia,45,4,LW-15/13,666,39,2-1-4-39,107,4-1-2-107,1444017600,1443580201,1443723296,1458755936
+89,Guilherme,gfsilveira@gmail.com,Usuário Externo,wded,Balb/c,2,dia,2,2,LW-XX/XX,666,666,AAA,666,AAA,1454302800,1443720123,666,1443720175
+90,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina-UEL,Balb/c,50,dia,30,1,LW-XX/XX,666,2147483647,3-2-4-81<br />3-2-1-78<br,2147483647,3-1-3-73<br />3-1-3-73<br,1446350400,1444304427,1445355393,1445355393
+91,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1445490701,666,1445617225
+92,Sidney Junior Zulkievicz,sidneyjuniorzulk@hotmail.com,BIOMOLTRIP,-,Swiss,3,mes,2,3,LW-15/13,666,1,1-1-1-1,108,4-1-3-108,1446004800,1445615988,1445943310,1458755938
+93,Guilherme,gfsilveira@gmail.com,Usuário Externo,Lab Test,Balb/c,2,dia,2,2,LW-XX/XX,666,666,AAA,666,AAA,1451624400,1446212576,666,1447842859
+94,Guilherme,gfsilveira@gmail.com,Usuário Externo,Test exter,Balb/c,2,dia,2,2,LW-XX/XX,666,666,AAA,666,AAA,1454302800,1446215065,666,1447842900
+95,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1447264822,666,1447842943
+96,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,57010139,2-4-1-57<br />2-1-4-39,1190101119,4-2-7-119<br />4-2-7-119,1448427600,1447415970,1447939589,1450285274
+97,Rafael Luis Kessler,kessler@tecpar.br,LABGEN,-,Swiss,2,dia,3,0,LW-15/13,925,666,AAA,666,AAA,1447390800,1447432778,666,1448037818
+98,Camila Zanluca,taniars@tecpar.br,Usuário Externo,Viromol,Balb/c,4,dia,20,3,LW-XX/XX,666,60,2-4-4-60,116,4-2-4-116,1450155600,1450203042,1450203201,1450203201
+99,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina-UEL,C57BL06WT,65,dia,40,1,LW-XX/XX,666,666,AAA,666,AAA,1454302800,1450695702,666,1456141453
+100,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,Universidade Estadual de Londrina-UEL,Balb/c,80,dia,40,1,LW-XX/XX,666,666,AAA,666,AAA,1454302800,1450695756,666,1456141472
+101,Eduardo alexandre Loth,ealoth@hotmail.com,Usuário Externo,Universidade Estadual do Oeste do Paraná,Balb/c,36,dia,15,1,2015/25,666,666,AAA,666,AAA,1458705600,1453114652,666,1455294757
+102,Matheus Gonçalves Severo,msevero@tecpar.br,LABGEN,-,Swiss,5,dia,40,5,LW-15/13,666,1101019,1-2-4-11<br />1-2-2-9,1100101110,4-1-5-110<br />4-1-5-110,1453698000,1453404993,1455294222,1458758432
+103,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LABREG,-,Swiss,3,mes,3,5,LW-15/13,666,8,1-2-1-8,111,4-1-6-111,1454302800,1453812497,1455294594,1460633929
+104,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1454054937,666,1454429463
+105,,,,-,,0,,0,0,,666,666,AAA,666,AAA,0,1454083856,666,1454429516
+106,diogo kuczera,dikuczera@gmail.com,Usuário Externo,Laboratorio de Virologia Molecular - ICC - Fiocruz,Balb/c,2,dia,1,0,LW-XX/XX,666,45,2-2-3-45,111,4-1-6-111,1454648400,1454347534,1455294319,1455294319
+107,Camila Sayuri Tominaga da Cunha,sayuri_camila@hotmail.com,LABREG,-,Balb/c,6,mes,2,4,LW-15/13,666,39,2-1-4-39,109,4-1-4-109,1454648400,1454437922,1455291074,1458760273
+108,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Balb/c,1,dia,1,0,LW-15/13,666,38,2-1-3-38,113,4-2-1-113,1455166800,1455118843,1455733571,1459362160
+109,Camila Sayuri Tominaga da Cunha,sayuri_camila@hotmail.com,LABREG,-,Balb/c,3,mes,2,4,LW-15/13,666,40,2-1-5-40,106,4-1-1-106,1455253200,1455282469,1455290736,1458760271
+110,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,Universidade Federal de Santa Catarina,C57BL06WT,13,dia,0,0,UFSC 2016,666,2147483647,3-2-2-79<br />3-1-5-75<br,2147483647,1-1-2-2<br />1-1-2-2<br /,1455685200,1455536233,1455733232,1455733232
+111,Camila Sayuri Tominaga da Cunha,sayuri_camila@hotmail.com,LABREG,-,Balb/c,3,mes,2,4,LW-15/13,666,38,2-1-3-38,112,4-1-7-112,1455685200,1455553758,1455733359,1458760275
+112,Sheila Cristina Nardelli ,sheila.nardelli@fiocruz.br,LABREG,-,Balb/c,4,dia,45,3,LW-15/13,666,1,1-1-1-1,106,4-1-1-106,1456722000,1455904615,1461756023,1468255602
+113,Camila Sayuri Tominaga da Cunha,sayuri_camila@hotmail.com,LABREG,-,Balb/c,3,mes,2,4,LW-15/13,666,45,2-2-3-45,116,4-2-4-116,1456117200,1456112403,1457010396,1461699883
+114,Rosiane Valeriano,zane.valeriano@hotmail.com,LABREG,-,Balb/c,4,mes,1,4,LW-15/13,666,44,2-2-2-44,115,4-2-3-115,1456376400,1456231067,1457010394,1461699880
+115,Jimena Ferreira da Costa,virtualjimena5151@hotmail.com,LABREG,-,Balb/c,6,mes,2,4,LW-15/13,666,41,2-1-6-41,115,4-2-3-115,1457067600,1456515275,1456764801,1456766790
+116,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Balb/c,3,mes,2,4,LW-15/13,666,36,2-1-1-36,115,4-2-3-115,1456894800,1456516092,1456766954,1456941375
+117,Lia Medeiros,liacasm@gmail.com,BIOMOLTRIP,-,Balb/c,3,mes,3,5,LW-15/13,666,37,2-1-2-37,117,4-2-5-117,1457672400,1457019313,1457024885,1468255602
+118,Rosiane Valeriano,zane.valeriano@hotmail.com,LABREG,-,Balb/c,8,mes,1,4,LW-15/13,666,666,AAA,666,AAA,1458273600,1457982256,666,1460142834
+119,Fabiola Barbieri Holetz,biaholetz@gmail.com,LABREG,-,Swiss,3,dia,40,4,LW-15/13,666,2010101197,6-1-5-201<br />6-1-1-197,1180101118,4-2-6-118<br />4-2-6-118,1459137600,1458585841,1460040810,1468589230
+120,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UFPR,Balb/c,7,dia,1,0,LW-XX/XX,666,46010141,2-2-4-46<br />2-1-6-41,1090101108,4-1-4-109<br />4-1-3-108,1459396800,1458826079,1459361615,1459361615
+121,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UFSC,C57BL06WT,1,dia,1,0,LW-XX/XX,666,74,3-1-4-74,108,4-1-3-108,1459742400,1458826216,1458847805,1458847805
+122,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UFSC,Balb/c,1,dia,1,0,LW-XX/XX,666,48,2-2-6-48,109,4-1-4-109,1459742400,1458826270,1458848271,1458848271
+123,Giovanny Mazzarotto,mazzarotto@tecpar.br,Usuário Externo,Lab viromol,Balb/c,4,dia,1,5,LW-XX/XX,666,42010141,2-1-7-42<br />2-1-6-41,1070101106,4-1-2-107<br />4-1-1-106,1458792000,1458844620,1458847613,1458847613
+124,Camila Oliveira Antes,mi.quati@gmail.com,LABREG,-,Swiss,6,dia,75,4,LW-15/13,666,2147483647,6-2-2-206<br />6-1-7-203<,2147483647,4-2-7-119<br />4-2-7-119<,1459742400,1459203278,1460041588,1466074685
+125,Jimena Ferreira da Costa,virtualjimena5151@hotmail.com,LABREG,-,Balb/c,6,mes,2,4,LW-15/13,666,47010138,2-2-5-47<br />2-1-3-38,1120101110,4-1-7-112<br />4-1-5-110,1459742400,1459256373,1459424414,1460132857
+126,Jimena Ferreira da Costa,virtualjimena5151@hotmail.com,LABREG,-,Balb/c,6,mes,2,4,LW-15/13,666,666,AAA,666,AAA,1460088000,1460133039,666,1460402367
+127,Jimena Ferreira da Costa,virtualjimena5151@gmail.com,LABREG,-,Balb/c,9,mes,2,4,LW-15/13,666,253,7-1-1-253,124,4-3-5-124,1460347200,1460133841,1460484566,1464803347
+128,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,Universidade Federal de Santa Catarina,Balb/c,4,mes,2,5,LW-XX/XX,666,43010137,2-2-1-43<br />2-1-2-37,1130101113,4-2-1-113<br />4-2-1-113,1460952000,1460140699,1460374907,1460374907
+129,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,Universidade de São Paulo,Balb/c,4,mes,2,5,LW-XX/XX,666,258,7-1-6-258,121,4-3-2-121,1460692800,1460483492,1460724939,1460724939
+130,Max Ingberman,maxebb@gmail.com,Usuário Externo,UFPR,Balb/c,30,mes,3,4,LW-XX/XX,666,2147483647,7-2-6-266<br />7-2-4-264<,2147483647,4-1-2-107<br />4-1-2-107<,1464148800,1462489074,1462964927,1462964927
+131,Daniela Parada Pavoni,dppavoni@fiocruz.br,LABGEN,-,Balb/c,6,mes,2,6,LW-15/13,666,2147483647,7-2-7-267<br />7-1-5-257,1070101107,4-1-2-107<br />4-1-2-107,1463457600,1463421953,1463507673,1473706051
+132,Daniela Parada Pavoni,dppavoni@fiocruz.br,LABGEN,-,Swiss,6,mes,2,6,LW-15/13,666,2147483647,6-1-6-202<br />6-1-4-200<,351,7-2-7-351,1463457600,1463422018,1463513594,1486144121
+133,Monica Visnieski Alcantara,monkabio@yahoo.com.br,Usuário Externo,UFPR,Swiss,2,dia,1,1,523,666,2010101197,6-1-5-201<br />6-1-1-197,1100101110,4-1-5-110<br />4-1-5-110,1464062400,1463679738,1464109052,1464109052
+134,Flavia Souza Morini,bioflavia@gmail.com,LPEP,-,Balb/c,5,mes,2,4,LW-15/13,666,255,7-1-3-255,110,4-1-5-110,1465185600,1464723547,1464789372,1470658303
+135,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,UEL,Swiss,32,dia,1,1,LW-XX/XX,666,2147483647,6-4-1-221<br />6-3-8-220<,2147483647,4-1-5-110<br />4-1-5-110<,1464753600,1464743586,1464787505,1464787505
+136,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,UEL,Balb/c,40,dia,1,1,LW-XX/XX,666,2147483647,7-3-2-270<br />7-3-1-269<,2147483647,4-1-5-110<br />4-1-5-110<,1464753600,1464743653,1464787714,1464787714
+137,Wander Pavanelli,wanderpavanelli@yahoo.com.br,Usuário Externo,UEL,C57BL06WT,40,dia,1,1,LW-XX/XX,666,2147483647,10-2-5-433<br />10-2-4-43,2147483647,4-1-5-110<br />4-1-5-110<,1464753600,1464743734,1464787952,1464787952
+138,Guilherme F. Silveira,gfsilveira@gmail.com,Teste,-,Balb/c,1,dia,1,1,Teste,666,2147483647,11-1-4-480<br />11-1-1-47,2147483647,11-5-4-500<br />11-5-4-50,1465392367,1465392367,1466101705,1466104569
+139,Camila Sayuri Tominaga da Cunha,sayuri_camila@hotmail.com,LABREG,-,Swiss,6,dia,45,4,LW-15/13,925,666,666,352,7-2-8-352,1466222400,1465586841,666,1486144122
+140,ROSIANE VALERIANO DA SILVA,zane.valeriano@hotmail.com,LABREG,-,Balb/c,6,dia,45,1,LW-15/13,666,2147483647,7-1-3-255<br />7-1-1-253,1120101112,4-1-7-112<br />4-1-7-112,1465876800,1465862484,1467143138,1468603174
+141,Guilherme F. Silveira,gfsilveira@gmail.com,Usuário Externo,Teste BioterC,Balb/c,1,dia,1,1,LW-XX/XX,666,477,11-1-1-477,476,10-7-8-476,1451613600,1467038976,1467039255,1467039255
+142,DAISY MARIA STROTTMANN,dmstrottmann@gmail.com,Usuário Externo,Viromol,Balb/c,4,mes,2,5,NA,666,253,7-1-1-253,113,4-2-1-113,1467082800,1467141031,1467143357,1467143357
+143,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,Universidade Federal de Santa Catarina,Balb/c,4,mes,2,5,Externo,666,2147483647,7-3-3-271<br />7-1-8-260<,2147483647,4-2-1-113<br />4-2-1-113<,1467601200,1467304747,1467728298,1467728298
+144,Leonardo Foti,bkelly@fiocruz.br,Usuário Externo,ICC,Balb/c,2,dia,40,0,LW-XX/XX,666,2147483647,7-1-6-258<br />7-1-2-254,1130101113,4-2-1-113<br />4-2-1-113,1467342000,1467368535,1467369058,1467369058
+145,Taissa,mazzarotto@fiocruz.br,Usuário Externo,Viromol,Balb/c,4,dia,40,0,LW-XX/XX,666,2147483647,7-2-8-268<br />7-1-5-257,1130101113,4-2-1-113<br />4-2-1-113,1467342000,1467368636,1467369126,1467369126
+146,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,Universidade de São Paulo,Balb/c,4,mes,2,5,LW-XX/XX,666,259,7-1-7-259,113,4-2-1-113,1467946800,1467650934,1467977643,1467977643
+147,Guilherme Ferreira Silveira,gfsilveira@gmail.com,Usuário Externo,Teste BioterC,Balb/c,1,dia,1,1,Teste CEUA,666,477,11-1-1-477,480,11-2-2-480,1484791200,1467991419,1468001918,1468001918
+148,Guilherme Ferreira Silveira,gfsilveira@gmail.com,Usuário Externo,Teste BioterC,Balb/c,1,dia,1,1,Teste CEUA,666,666,AAA,666,AAA,1513648800,1467992305,666,1471871245
+149,Gisele Picchi,giselepicchi@gmail.com,BIOMOLTRIP,-,Swiss,6,mes,2,8,LW-15/13,666,2030101197,6-1-7-203<br />6-1-1-197,1140101114,4-2-2-114<br />4-2-2-114,1469415600,1468439593,1468523221,1474304538
+150,Pryscilla Fanini Wowk,pryscilla@wowk.com.br,Usuário Externo,UEL,C57BL06WT,50,dia,30,1,7045.2015.06,666,2147483647,10-4-2-446<br />10-4-1-44,2147483647,4-3-5-124<br />4-3-5-124<,1475290800,1468611881,1477476988,1477476988
+151,Camila Sayuri Tominaga da Cunha,sayuri_camila@hotmail.com,LABREG,-,Swiss,6,mes,2,3,LW-15/13,666,2147483647,6-3-4-216<br />6-1-7-203,1060101106,4-1-1-106<br />4-1-1-106,1468897200,1468862977,1468946932,1474304424
+152,Sheila Nardelli/ Caroline de Moraes,carol.moraes.siqueira@gmail.com,Usuário Externo,Lab Reg,Swiss,3,dia,45,4,LW-XX/XX,666,2147483647,6-4-2-222<br />6-3-2-214,1120101112,4-1-7-112<br />4-1-7-112,1470020400,1469469644,1469633726,1469633726
+153,Phileno Pinge,pingefilho@uel.br,Usuário Externo,UEL,S129WT,57,dia,0,0,LW-XX/XX,666,2147483647,9-4-6-394<br />9-4-5-393<,2147483647,4-2-4-116<br />4-3-1-120<,1470366000,1470162153,1470403091,1470403091
+154,Rosiane,zane.valeriano@hotmail.com,LABREG,-,Balb/c,6,dia,45,1,LW-15/13,666,2147483647,7-2-4-264<br />7-2-3-263,1090101109,4-1-4-109<br />4-1-4-109,1475204400,1471544175,1476443654,1478018714
+155,Augusto S P Ramos,aspramos@fiocruz.br,BIOMOLTRIP,-,Swiss,4,dia,56,5,LW-15/13,666,205,6-2-1-205,340,7-1-4-340,1472698800,1471889174,1472748548,1481544016
+156,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,9,mes,2,4,LW-15/13,666,252,6-7-8-252,112,4-1-7-112,1473908400,1472662299,1472836932,1472837009
+157,Beatriz Guimarães,beatriz.guimaraes@fiocruz.br,LPEP,-,Swiss,4,mes,2,4,LW-15/13,666,217,6-3-5-217,113,4-2-1-113,1473908400,1472747272,1473162126,1478772840
+158,Jaqueline ,susiane.piovezan@gmail.com,BIOMOLTRIP,-,Swiss,9,mes,2,5,LW-15/13,666,2147483647,6-3-3-215<br />6-3-2-214<,2147483647,4-1-7-112<br />4-1-7-112<,1473908400,1472837234,1473161052,1479482023
+159,Pryscilla Fanini Wowk,pryscilla@wowk.com.br,Usuário Externo,Viromol,Balb/c,3,mes,2,2,LW-XX/XX,666,255,7-1-3-255,115,4-2-3-115,1473130800,1473085161,1473182163,1473182163
+160,Pryscilla Fanini Wowk,pryscilla@wowk.com.br,Usuário Externo,Viromol,Balb/c,3,mes,2,2,LW-XX/XX,666,666,AAA,666,AAA,1473130800,1473085162,666,1473179635
+161,claudia maria do nascimento moreira,claudiamnm@gmail.com,BIOMOLTRIP,-,Swiss,3,mes,2,4,LW-15/13,666,230,6-5-2-230,107,4-1-2-107,1474254000,1473957466,1474031154,1479482190
+162,Rafael Kessler,kessler1982@gmail.com,BIOMOLTRIP,-,Swiss,2,dia,7,1,LW-15/13,666,231,6-5-3-231,106,4-1-1-106,1475204400,1475091457,1475171874,1478018713
+163,Guilhermina /Susiane,susiane.piovezan@gmail.com,Usuário Externo,UFPR,Swiss,20,mes,2,5,LW-15/13,666,2147483647,6-3-6-218<br />6-2-1-205<,2147483647,4-1-4-109<br />4-2-2-114<,1475636400,1475590359,1475590613,1475590613
+164,Rafael Luis Kessler,kessler@ibmp.org.br,Usuário Externo,LabGen,Balb/c,6,dia,30,1,LW-XX/XX,666,2147483647,6-5-5-233<br />6-5-4-232,1160101115,4-2-4-116<br />4-2-3-115,1475636400,1475611708,1475676640,1475676640
+165,Daniela Parada Pavoni,dppavoni@fiocruz.br,LABGEN,-,Swiss,4,mes,2,4,LW-15/13,666,234,6-5-6-234,343,7-1-7-343,1476669600,1476385266,1476805838,1482151333
+166,Rafael Kessler,kessler1982@gmail.com,Usuário Externo,BiomolTrip,Swiss,2,dia,1,1,LW-XX/XX,666,236,6-5-8-236,115,4-2-3-115,1476756000,1476725550,1476805892,1476805892
+167,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,12,mes,1,4,LW-15/13,666,2147483647,7-2-2-262<br />7-1-7-259,337,7-1-1-337,1478311200,1476893164,1478773275,1483353917
+168,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,20,mes,1,28,LW-15/13,666,2147483647,2-5-5-93<br />2-5-2-90<br,344,7-8,1479175200,1476893254,1483447428,1497017426
+169,CAMILA SAYURI TOMINAGA DA CUNHA,SAYURI_CAMILA@HOTMAIL.COM,LABREG,-,Swiss,3,dia,50,3,LW-15/13,666,211,6-2-7-211,344,7-1-8-344,1469329200,1477076084,1477316636,1481544224
+170,Daniela Parada Pavoni,dppavoni@fiocruz.br,LABGEN,-,Swiss,2,mes,2,4,LW-15/13,666,199,6-1-3-199,345,7-2-1-345,1477274400,1477313005,1477420059,1482151513
+171,Leonardo Foti,leofoti@gmail.com,Usuário Externo,IBMP,Balb/c,2,dia,3,0,LW-XX/XX,666,253,7-1-1-253,140,4-5-7-140,1478484000,1478278057,1478527695,1478527695
+172,Rafael Luis Kessler,kessler@ibmp.org.br,Usuário Externo,LabGen,Swiss,12,dia,20,1,LW-XX/XX,666,2147483647,6-5-6-234<br />6-5-5-233<,2147483647,4-1-4-109<br />4-1-4-109<,1479348000,1478623987,1478774127,1478774127
+173,Taissa Ricciardi Jorge,taissarj@gmail.com,Usuário Externo,ViroMol,Balb/c,3,dia,70,5,LW-XX/XX,666,262,7-2-2-262,109,4-1-4-109,1478829600,1478626759,1478773443,1478773443
+174,Rosiane Valeriano,zane.valeriano@hotmail.com,LABREG,-,Balb/c,6,dia,45,28,LW-15/13,666,2147483647,7-1-8-260<br />7-1-6-258,342,7-1-6-342,1479088800,1478709178,1478774855,1483353918
+175,Taissa Ricciardi Jorge,taissarj@gmail.com,Usuário Externo,ViroMol,Balb/c,3,dia,70,5,LW-XX/XX,666,2147483647,7-1-8-260<br />7-1-4-256,1090101109,4-1-4-109<br />4-1-4-109,1478829600,1478869496,1479297084,1479297084
+176,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UFSC,S129KO,1,dia,1,0,LW-XX/XX,666,365,9-1-1-365,107,4-1-2-107,1479693600,1479729015,1479730073,1479730073
+177,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UFSC,S129WT,1,dia,1,0,LW-XX/XX,666,142,5-1-2-142,107,4-1-2-107,1479693600,1479729059,1479743418,1479743418
+178,wagner nagibe,wagnernagibe@gmail.com,Usuário Externo,Institute Nagib Lab,C57BL06WT,40,dia,41,2,000000000,666,477,11-1-1-477,478,11-1-2-478,1480903200,1479827295,1479904119,1479904119
+179,Susiane,susiane.piovezan@gmail.com,VIROMOL,-,Swiss,1,dia,41,1,LW-15/13,925,666,AAA,666,AAA,1480384800,1480353657,666,1480354696
+180,Rafael Luis Kessler,kessler@ibmp.org.br,Usuário Externo,externo,Swiss,8,dia,40,1,LW-XX/XX,666,2147483647,1-7-1-49<br />1-6-1-41<br,2147483647,7-2-3-347<br />7-2-3-347<,1481248800,1480961892,1481212879,1481212879
+181,Leonardo Foti,leofoti@gmail.com,Usuário Externo,IBMP,Balb/c,2,dia,41,1,0,666,256,6-3-2-256,127,4-1-1-127,1481076000,1480963238,1481035138,1481035138
+182,Juliano Bordignon ,bordignonjuliano@gmail.com,Usuário Externo,Vriromol,C57BL06WT,12,dia,30,1,LW-XX/XX,666,2147483647,5-7-7-279<br />5-6-8-272<,2147483647,7-2-2-346<br />7-2-2-346<,1481508000,1481028152,1481213189,1481213189
+183,Juliano Bordignon ,bordignonjuliano@gmail.com,Usuário Externo,Viromol,Balb/c,12,dia,30,1,LW-XX/XX,666,2147483647,2-2-7-71<br />2-2-6-70<br,2147483647,7-1-4-340<br />7-1-4-340<,1484013600,1481028243,1483448281,1483448281
+184,Guilhermina Rodrigues Noleto,guinoleto@yahoo.com.br,Usuário Externo,UFPR,Swiss,15,dia,1,0,LW-XX/XX,666,2147483647,1-7-8-56<br />1-7-7-55<br,2147483647,7-1-4-340<br />7-1-4-340<,1481594400,1481630227,1481631986,1481631986
+185,Guilhermina ,tania.schepainski@fiocruz.br,Usuário Externo,UFPR,Swiss,19,mes,2,1,LW-XX/XX,666,2147483647,1-7-1-49<br />1-5-2-34<br,2147483647,1-2-4-12<br />7-1-4-340<b,1485914400,1484071507,1484071776,1484071776
+186,Nilson Zanchin,nizanchin@fiocruz.br,LPEP,-,Balb/c,10,dia,8,6,LW-15/13,666,2147483647,2-6-8-104<br />2-5-8-96<b,375,7-5-7-375,1485136800,1484224793,1485440751,1491332458
+187,Giovanna Cesaro,gi_cesaro@hotmail.com,LPEP,-,Swiss,16,mes,2,4,LW-15/13,666,2147483647,1-7-2-50<br />1-6-3-43<br,382,7-46,1487559600,1486555767,1487696869,1494502978
+188,Larissa Alvarenga Magalhães,malvarenga@ufpr.br,Usuário Externo,UFPR,Balb/c,4,dia,0,0,LW-XX/XX,666,98010197,2-6-2-98<br />2-6-1-97,201012,1-1-2-2<br />1-1-2-2,1486605600,1486605878,1486641030,1486641030
+189,Diogo Kuczera,dikuczera@gmail.com,Usuário Externo,Virologia Molecular Fiocruz,S129KO,4,dia,7,1,LW-XX/XX,666,2147483647,6-3-5-301<br />6-3-4-300,2147483647,6-4-5-309<br />6-4-4-308,1487124000,1487186211,1487598398,1487598398
+190,Mateus Aoki,mateus.aoki@fiocruz.br,Usuário Externo,Genomica,C3H,4,dia,30,1,LW-XX/XX,666,2147483647,3-3-3-131<br />3-3-1-129<,2147483647,7-2-1-345<br />7-2-1-345<,1487559600,1487253541,1487683993,1487683993
+191,Rosiane Valeriano,zane.valeriano@hotmail.com,LABREG,-,Balb/c,20,dia,65,33,LW-15/13,666,2147483647,2-3-8-80<br />2-3-1-73<br,384,7-48,1489114800,1487615235,1488461107,1501697189
+192,Rosiane Valeriano,zane.valeriano@hotmail.com,LABREG,-,Swiss,3,dia,15,1,LW-15/13,666,18,1-3-2-18,346,7-2-2-346,1488337200,1487615324,1487858442,1492716121
+193,Jaqueline de Oliveira Rosa ,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,5,mes,2,4,LW-15/13,666,70,2-2-6-70,363,7-27,1487905200,1487788995,1487935875,1493225933
+194,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UFSC,Balb/c,4,dia,60,5,LW-XX/XX,666,96,2-5-8-96,384,7-6-8-384,1488510000,1488388653,1488461360,1488461360
+195,Ana Luiza Pamplona Mosimann,analuizamosimann@gmail.com,Usuário Externo,Instituto Carlos Chagas,Balb/c,4,dia,59,5,submetido,666,63010163,2-1-7-63<br />2-1-7-63,2147483647,7-1-6-342<br />7-1-6-342,1490065200,1489437673,1490119216,1490119216
+196,Phileno Pinge Filho,pingefilho@uel.br,Usuário Externo,UEL,C57BL06WT,35,dia,0,0,LW-XX/XX,666,2147483647,5-7-4-276<br />5-7-1-273<,2147483647,1-2-7-15<br />1-2-7-15<br,1489978800,1489692473,1490034782,1490034782
+197,Ana Carolina,carolavk@gmail.com,Usuário Externo,Labreg,C57BL06WT,5,dia,14,1,LW-XX/XX,666,275,5-7-3-275,342,7-1-6-342,1490842800,1490210337,1490271584,1490271584
+198,Rosiane,zane.valeriano@hotmail.com,Usuário Externo,REG,Swiss,3,mes,1,1,LW-18/16,666,41,1-6-1-41,342,7-1-6-342,1490324400,1490294639,1490703233,1490703233
+199,Ana Carolina Andrade Vitor Kayano,carolavk@gmail.com,LABREG,-,C57BL/6,21,dia,21,15,LW-54/16,666,2147483647,5-38<br />5-37<br />5-7<b,343,7-7,1497927600,1491331359,1501248706,1501869745
+200,Anna Caroline Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,77,2-21,343,7-7,1492138800,1491582146,1491914556,1496862058
+201,Bruno Moisés de Matos,brunomoisesdematos@gmail.com,LPEP,-,Swiss,8,mes,2,4,LW-15/13,666,45010126,1-45<br />1-26,350,7-14,1493089200,1491590403,1491912621,1495559355
+202,Teste 1,pereira.liviah@gmail.com,Usuário Externo,Biotério,Balb/c,5,dia,1,1,LW-15/13,666,385,8-1,386,8-2,1492398000,1492003527,1492005886,1492005886
+203,Tania,tania.schepainski@fiocruz.br,Usuário Externo,BIOT TESTE,Balb/c,1,dia,2,1,LW-15/13,666,385,8-1,386,8-2,1491966000,1492005628,1492005790,1492005790
+204,Halisson Tesseroli Miot,halissontm@gmail.com,LABREG,-,Balb/c,6,mes,1,3,LW-34/16,666,92010191,2-36<br />2-35,359,7-23,1492657200,1492535939,1492610790,1497976761
+205,Lívia H. G. Pereira,pereira.liviah@gmail.com,Usuário Externo,Biotério,Swiss,8,mes,2,4,LW-15/13,666,44010125,1-44<br />1-25,2147483647,7-45<br />7-37,1494298800,1494271208,1494334581,1494334581
+206,Leticia Adejani Laibida,leticia.laibida@gmail.com,BIOMOLTRIP,-,Swiss,4,mes,2,4,LW-15/13,666,43010142,1-43<br />1-42,2147483647,7-6<br />7-14,1496631600,1496259503,1496324206,1501178969
+207,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,107,2-51,358,7-22,1496977200,1496343967,1496671159,1501697163
+208,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,666,AAA,666,AAA,1496977200,1496343974,666,1496669199
+209,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,666,AAA,666,AAA,1496977200,1496343982,666,1496669265
+210,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,666,AAA,666,AAA,1496977200,1496343990,666,1496669254
+211,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,666,AAA,666,AAA,1496977200,1496343997,666,1496669244
+212,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,666,AAA,666,AAA,1496977200,1496344004,666,1496669226
+213,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,10,dia,45,5,LW-15/13,666,666,AAA,666,AAA,1497236400,1496949547,666,1496950558
+214,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,10,dia,45,5,LW-15/13,666,1080101104,2-52<br />2-48,2147483647,7-16<br />7-16,1497236400,1496949554,1497285779,1501696756
+215,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,10,dia,45,5,LW-15/13,666,2147483647,2-49<br />2-46<br />2-34<,2147483647,7-8<br />7-8<br />7-8<br ,1497236400,1496949595,1497285858,1501696700
+216,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,10,dia,45,5,LW-15/13,666,1090101106,2-53<br />2-50,2147483647,7-24<br />7-24,1497236400,1496949637,1497285929,1501696757
+217,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Balb/c,6,dia,45,5,LW-15/13,666,2147483647,2-55<br />2-54<br />2-45,2147483647,7-32<br />7-32<br />7-32,1497236400,1496949690,1497286000,1501696757
+218,Bruna Luiza Lange,brullange@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-15/13,666,111,2-55,360,7-24,1497582000,1497013889,1497363285,1502991574
+219,Guilherme Ferreira Silveira,gfsilveira@gmail.com,VIROMOL,-,Swiss-1,6,dia,5,1,LW-2/17,666,34010133,1-34<br />1-33,2147483647,7-39<br />7-31,1497322800,1497289987,1497373755,1497977149
+220,Nathalia Cavalheiro Auwerter,nathalia.auwerter@hotmail.com,VIROMOL,ICC-FIOCRUZ,Balb/c,4,mes,3,5,LW-2/17,666,99010197,2-43<br />2-41,2147483647,7-7<br />7-7,1498359600,1498226955,1498486087,1498486087
+221,Nathalia Cavalheiro Auwerter,nathalia.auwerter@hotmail.com,VIROMOL,ICC-FIOCRUZ,Balb/c,4,mes,3,5,LW-2/17,66,666,AAA,666,AAA,1498359600,1498226961,666,1498242893
+222,Daniela de almeida cabrini,,Usuário Externo,UFPR,C57BL/6,43,dia,1,1,LW-XX/XX,666,2147483647,5-55<br />5-52<br />5-48<,2147483647,1-4<br />1-4<br />1-4<br ,1646103600,1498747657,1498753887,1498753887
+223,Daniela de almeida cabrini,Cabrini@ufpr.br,Usuário Externo,Ufpr,C57BL/6,43,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1495422000,1499263957,666,1499340746
+224,Guilermina Rodrigues Noleto,quinoleto@yahoo.com.br,Usuário Externo,UFPR,Swiss,37,dia,1,1,LW-XX/XX,666,2147483647,1-52<br />1-51<br />1-44<,2147483647,1-16<br />1-16<br />1-16<,1499655600,1499386053,1499428748,1499428748
+225,Juliano Bordignon,bordignonjuliano@gmail.com,Usuário Externo,UNiversidade Federal do Parana,C57BL/6,40,dia,1,1,23075.147773/2016-56,666,2147483647,5-43<br />5-26<br />5-23<,2147483647,1-16<br />1-16<br />1-16<,1501470000,1500312611,1501248306,1501248306
+226,Letusa Albrecht,letusaa@gmail.com,LABREG,-,C57BL/6,3,dia,7,1,LW-54/16,666,260,5-36,351,7-15,1500606000,1500659015,1501249144,1501869651
+227,Jimena Ferreira da Costa,virtualjimena5151@hotmail.com,LABREG,-,Swiss,3,mes,2,4,LW-15/13,929,21,1-21,352,7-16,1500865200,1500662967,1501160579,1506107806
+228,Jimena Ferreira da Costa,virtualjimena5151@hotmail.com,LABREG,-,Swiss,3,mes,2,4,LW-15/13,925,666,AAA,666,AAA,1500865200,1500662973,666,1501002788
+229,Rosiane Valeriano da Silva,zane.valeriano@hotmail.com,LABREG,-,Swiss,3,dia,3,1,LW-15/13,666,19,1-19,381,7-45,1501470000,1500898000,1501160741,1501697163
+230,Lucca Pietro Camillo dos Santos,luccacamillo@gmail.com,LPEP,-,Swiss,4,mes,2,4,LW-15/13,929,30,1-30,344,7-8,1502679600,1501535086,1501591273,1507116457
+231,Tania,,Usuário Externo,UFPR,Swiss,26,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1501556400,1501606947,666,1501607919
+232,Guilhermina,,Usuário Externo,UFPR,Swiss,26,dia,1,1,LW-XX/XX,666,2147483647,1-51<br />1-36<br />1-35<,2147483647,1-1<br />1-1<br />1-1<br ,1501556400,1501607949,1501608081,1501608081
+233,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Swiss,4,mes,2,4,LW-15/13,929,42,1-42,343,7-7,1503025200,1502819001,1502974347,1507659593
+234,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Swiss,6,mes,2,4,LW-15/13,929,25010118,1-25<br />1-18,359,7-23,1503025200,1502819051,1502974346,1507659594
+235,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Swiss,4,mes,2,4,LW-15/13,929,44,1-44,367,7-31,1503284400,1502819145,1502974780,1507659594
+236,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Swiss,2,mes,2,4,LW-15/13,929,17,1-17,375,7-39,1503284400,1502819183,1502974780,1507659594
+237,Tania,teste@tania.com.br,LABREG,-,Swiss,5,mes,1,1,LW-15/13,925,666,AAA,666,AAA,1503025200,1502819963,666,1502821469
+238,Tania TESTE,taniarsbio@gmail.com,LABREG,-,Swiss,10,dia,1,1,LW-15/13,666,432,8-48,430,8-46,1502938800,1502905458,1502905516,1503320670
+239,Daniela Cabrini,gio.mazzarotto@gmail.com,Usuário Externo,UFPR,C57BL/6,22,dia,15,1,LW-XX/XX,666,2147483647,5-54<br />5-53<br />5-52<,2147483647,8-48<br />8-48<br />8-48<,1503457200,1503515945,1503578097,1503578097
+240,Ana Beatriz Lung Enembreck da Silva,iungbeatriz@gmail.com,LABREG,-,Swiss-2,12,dia,2,5,LW-34/16,100,2147483647,1-42<br />1-25<br />1-20<,376,7-40,1505098800,1504629609,1504701399,1509387749
+241,Bruna Luiza Lange,brullange@gmail.com,BIOMOLTRIP,-,Swiss,4,mes,2,4,LW-15/13,925,22,1-22,344,7-8,1505444400,1505307008,1505475771,1509387701
+247,Universidade Federal do Rio de Janeiro,,Usuário Externo,Universidade Federal do Rio de Janeiro,S129WT,10,dia,1,1,LW-XX/XX,666,2147483647,4-52<br />4-42<br />4-41,2147483647,1-11<br />1-11<br />1-11,1507690800,1507721018,1507748708,1507748708
+242,Guilhermina Rodrigues Noleto,guilhermina@ufpr.br,Usuário Externo,Universidade Federal do Paraná,Swiss,29,dia,1,1,LW-XX/XX,666,2147483647,1-51<br />1-50<br />1-49<,2147483647,1-11<br />1-11<br />1-11<,1505790000,1505842375,1505842532,1505842532
+243,Giovanny,gio.mazzarotto@gmail.com,Usuário Externo,EXTERNO,Balb/c,1,dia,1,1,LW-XX/XX,666,90,2-34,337,7-1,1507690800,1507720540,1507722746,1507722746
+244,Giovanny,gio.mazzarotto@gmail.com,Usuário Externo,Externo,Swiss,1,dia,1,1,LW-XX/XX,666,30,1-30,337,7-1,1507690800,1507720586,1507722713,1507722713
+245,Universidade Federal do Rio de Janeiro,,Usuário Externo,Universidade Federal do Rio de Janeiro,Balb/c,10,dia,1,1,LW-XX/XX,666,2147483647,2-53<br />2-52<br />2-43,2147483647,1-11<br />1-11<br />1-11,1507690800,1507720636,1507750322,1507750322
+246,Universidade Federal do Rio de Janeiro,,Usuário Externo,Universidade Federal do Rio de Janeiro,C57BL/6,10,dia,1,1,LW-XX/XX,666,2147483647,5-49<br />5-45,11010111,1-11<br />1-11,1507690800,1507720658,1507750226,1507750226
+248,Universidade Federal do Rio de Janeiro,,Usuário Externo,Universidade Federal do Rio de Janeiro,Swiss,50,dia,1,1,LW-XX/XX,666,2147483647,1-56<br />1-55<br />1-54<,2147483647,1-11<br />1-11<br />1-11<,1507690800,1507721138,1507726039,1507726039
+249,Universidade Federal do Rio de Janeiro,,Usuário Externo,Universidade Federal do Rio de Janeiro,C3H,10,dia,1,1,LW-XX/XX,666,2147483647,3-48<br />3-47<br />3-42<,2147483647,1-11<br />1-11<br />1-11<,1508205600,1508254445,1508254572,1508254572
+250,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Balb/c,1,mes,2,4,LW-34/16,90,99,2-43,337,7-1,1508810400,1508514636,1508847999,1516727741
+251,Leticia Adejani Laibida,leticia_laibida@yahoo.com.br,BIOMOLTRIP,-,Balb/c,2,mes,2,4,LW-34/16,88,98,2-42,345,7-9,1508810400,1508514727,1508848349,1516727742
+252,Bruna Lange,brullange@gmail.com,BIOMOLTRIP,-,Balb/c,3,mes,2,4,LW-34/16,91,97,2-41,353,7-17,1508810400,1508774012,1508847814,1513709349
+253,Fabiano Figueiredo,fabianocamposicc@gmail.com,Usuário Externo,LABCET,Swiss,1,dia,1,1,LW-XX/XX,666,11,1-11,337,7-1,1508810400,1508782683,1508845223,1508845223
+254,Anna Caroline Gogola Muller,caarol.12@gmail.com,BIOMOLTRIP,-,Balb/c,3,mes,2,4,LW-34/16,88,19,1-19,361,7-25,1509415200,1508943732,1509034730,1516727742
+255,Kamille Schmitt,kami.schmitt@gmail.com,BIOMOLTRIP,-,Balb/c,3,mes,2,4,LW-34/16,88,21,1-21,369,7-33,1509069600,1508948250,1509034866,1519042665
+256,Kamille Schmitt,kami.schmitt@gmail.com,BIOMOLTRIP,-,Balb/c,3,mes,2,4,LW-34/16,88,20,1-20,377,7-41,1509069600,1508948250,1509364589,1520428746
+257,Guilhermina Rodrigues Noleto,guinoleto@yahoo.com.br,Usuário Externo,UFPR,Swiss,49,dia,1,1,LW-XX/XX,666,2147483647,6-55<br />6-54<br />6-53<,2147483647,1-9<br />1-9<br />1-9<br ,1511316000,1511375642,1511375853,1511375853
+258,Letusa Albrecht,letusaa@gmail.com,LABREG,-,Balb/c,3,dia,45,3,LW-34/16,85,84010166,2-28<br />2-10,353,7-17,1512352800,1511793006,1512040840,1516727742
+259,Rafael Borges Rosa,gio.mazzarotto@gmail.com,Usuário Externo,FIOCRUZ - Centro de Pesquisa Aggeu Magalhães,S129KO,10,dia,1,1,LW-XX/XX,666,2147483647,6-14<br />6-13<br />6-12<,2147483647,1-13<br />1-13<br />1-13<,1512957600,1512996752,1512996859,1512996859
+260,Ana Angelica Steil,aasteil@univali.br,Usuário Externo,UNIVALI,Balb/c,71,dia,1,1,LW-XX/XX,666,2147483647,3-56<br />3-55<br />3-54<,2147483647,1-14<br />1-1<br />1-1<br,1516154400,1513855561,1516283346,1516283346
+261,Stelle Marcela Petris Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,34,dia,1,1,LW-XX/XX,666,2147483647,5-38<br />5-37<br />5-36<,2147483647,1-2<br />1-2<br />1-2<br ,1515031200,1513855820,1515416921,1515416921
+262,Juliano Bordignon ,bordignonjuliano@gmail.com,Usuário Externo,UFRJ,S129KO,25,dia,1,1,LW-XX/XX,666,164,3-52,1,1-1,1516068000,1513856126,1516283346,1516283346
+263,Stelle Marcela Petris Biscaia,stellee.biscaia@gmail.com,Usuário Externo,Universidade Federal do Paraná,C57BL/6,4,dia,1,1,LW-XX/XX,666,245,5-21,2,1-2,1515376800,1515416534,1515416921,1515416921
+264,Stelle Marcela Petris Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,20,dia,1,1,LW-XX/XX,666,2147483647,8-9<br />8-8<br />8-7<br ,2147483647,1-1<br />1-1<br />1-1<br ,1516586400,1516293564,1516899233,1516899233
+265,Daniela Cabrini,cabrini@ufpr.br,Usuário Externo,UFPR,C57BL/6,56,dia,1,1,LW-XX/XX,666,2147483647,5-43<br />5-40<br />5-39<,2147483647,1-1<br />1-1<br />1-1<br ,1516672800,1516726911,1516727255,1516727255
+266,Gisele Picchi,giselepicchi@gmail.com,BIOMOLTRIP,-,Balb/c,2,mes,2,5,LW-34/16,83,94010194,2-38<br />2-38,2147483647,7-17<br />7-17,1518141600,1518184184,1518702243,1524658844
+267,Gisele Picchi,giselepicchi@gmail.com,BIOMOLTRIP,-,Swiss-2,2,mes,2,5,LW-34/16,100,29,1-29,361,7-25,1518141600,1518184313,1518702351,1524658844
+268,Fabiano Borges Figueiredo,fabiano.figueiredo@fiocruz.br,Usuário Externo,UFPR,Balb/c,2,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1519009200,1518701217,666,1519042841
+269,Jimena Ferreira da Costa,virtualjimena5151@hotmail.com,LABREG,-,Swiss-2,3,mes,2,4,LW-34/16,100,48,1-48,369,7-33,1520218800,1519142325,1519734988,1524244767
+270,Stellee Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,20,dia,1,1,LW-XX/XX,666,2147483647,8-6<br />8-5<br />8-4<br ,2147483647,1-9<br />1-9<br />1-9<br ,1519182000,1519222882,1519222969,1519222969
+271,Gilmara Solano Miranda,gilmara@ufpr.br,Usuário Externo,Universidade Federal do Paraná,Swiss,56,dia,1,1,LW-XX/XX,666,2147483647,1-52<br />1-51<br />1-50<,2147483647,1-8<br />1-8<br />1-8<br ,1519700400,1519648205,1519843937,1519843937
+272,Fabiano Borges Figueiredo,fabiano.figueiredo@fiocruz.br,Usuário Externo,UFPR,Balb/c,2,dia,1,1,LW-XX/XX,666,105,2-49,337,7-1,1520305200,1520254291,1520257608,1520257608
+273,Larissa Lalli ,larissalalli92@gmail.com,LABREG,ICC,Swiss-2,3,mes,2,4,LW-34/16,100,666,AAA,666,AAA,1520823600,1520283769,666,1520440242
+274,Max Ingberman,max@imunova.com.br,Usuário Externo,Immunova,Balb/c,27,dia,1,1,LW-XX/XX,666,2147483647,2-56<br />2-55<br />2-39<,2147483647,1-1<br />1-1<br />1-1<br ,1520305200,1520342463,1520533002,1520533002
+275,Larissa Lalli,larissalalli92@gmail.com,LABREG,-,Swiss-2,3,mes,2,4,LW-34/16,100,33,1-33,377,7-41,1520823600,1520433670,1520512064,1525440080
+276,Fabiano Borges Figueiredo,fabiano.figueiredo@fiocruz.br,Usuário Externo,ufpr,Swiss,2,dia,1,1,LW-XX/XX,666,18,1-18,1,1-1,1520910000,1520611636,1520941467,1520941467
+277,Claudia Duarte dos Santos,clsantos@fiocruz.br,VIROMOL,-,Balb/c,10,dia,9,1,LW-2/17,82,2147483647,8-6<br />8-5,2147483647,7-14<br />7-13,1520564400,1520614112,1521720444,1521720729
+278,Claudia Duarte dos Santos,clsantos@fiocruz.br,VIROMOL,-,Swiss-1,52,dia,21,1,LW-2/17,90,2147483647,8-15<br />8-14<br />8-13<,2147483647,7-12<br />7-11<br />7-10<,1520564400,1520614850,1521720393,1521720729
+279, Ligia Gomes Miyazato,ligiamiyazato@gmail.com,Usuário Externo,UFSM,Swiss,48,dia,1,1,LW-XX/XX,666,2147483647,1-50<br />1-49<br />1-44<,2147483647,1-47<br />1-13<br />1-13<,1522897200,1521657781,1522951008,1522951008
+280,Andrea Senff Ribeiro,senffribeiro@gmail.com,Usuário Externo,UFPR,C57BL/6,38,dia,1,1,LW-XX/XX,666,2147483647,5-56<br />5-55<br />5-54<,2147483647,1-10<br />1-10<br />1-10<,1524193200,1523024686,1524228577,1524228577
+281,Gabriela Xavier Schneider,gabrielaxavier13@gmail.com,Usuário Externo,UFPR,Balb/c,12,dia,1,1,LW-XX/XX,666,2147483647,2-38<br />2-37<br />2-36<,2147483647,1-29<br />1-29<br />1-1<b,1523329200,1523304661,1523379935,1523379935
+282,Stelle Biscaia,stellee.biscaia@gmail.com,Usuário Externo,Universidade Federal do Paraná,C57BL/6,37,dia,1,1,LW-XX/XX,666,2147483647,4-54<br />4-53<br />4-51<,2147483647,1-10<br />1-10<br />1-10<,1525316400,1523383345,1525457416,1525457416
+283,Fabiano Borges Figueiredo,fabiano.figueiredo@fiocruz.br,Usuário Externo,UFPR,Swiss,2,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1523934000,1523909370,666,1523966561
+284,Caroline de Moraes de Siqueira,Carol.moraes.siqueira@gmail.com,LABREG,-,Swiss-2,3,dia,45,3,LW-34/16,100,18,1-18,369,7-33,1524452400,1524048788,1524146274,1529594375
+285,Eloise Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,20,dia,14,14,006/18,30,666,AAA,666,AAA,1526007600,1524253426,666,1525280512
+286,Eloise Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,2,dia,14,1,006/18,148,95,2-39,342,7-6,1524538800,1524576720,1524576782,1526585888
+287,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,3,mes,2,5,LW-2/17,79,91,2-35,377,7-41,1524798000,1524748978,1524762188,1530208055
+288,Gabriela,gabrielaxavier13@gmail.com,Usuário Externo,UFPR,Balb/c,4,dia,1,1,LW-XX/XX,666,92,2-36,10,1-10,1524798000,1524830855,1524830918,1524830918
+289,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,14,dia,9,14,006/18,134,2147483647,2-40<br />2-39<br />2-38<,337,7-1,1526007600,1525265302,1525781438,1527510063
+290,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,20,dia,9,14,006/18,114,2147483647,2-28<br />2-25<br />2-13<,341,7-5,1529463600,1525265338,1528982820,1530557896
+291,Kamille Schmitt Pereira,kami.schmitt@gmail.com,BIOMOLTRIP,-,Balb/c,5,mes,2,4,LW-34/16,73,666,AAA,666,AAA,1525662000,1525373199,666,1525718005
+292,Kamille Schmitt Pereira,kami.schmitt@gmail.com,BIOMOLTRIP,-,Swiss-2,6,mes,2,4,LW-34/16,100,37010136,1-37<br />1-36,362,7-26,1525748400,1525691655,1526648052,1532614736
+293,Andreia Akemi Suzukawa,andreia.suzukawa@fiocruz.br,VIROMOL,-,Swiss-1,16,dia,15,1,LW-2/17,90,2147483647,2-54<br />2-53<br />2-50<,361,7-25,1528081200,1525877320,1527688122,1530208055
+294,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,3,mes,2,5,LW-2/17,76,62,2-6,339,7-3,1526612400,1526500176,1526565591,1530208054
+295,JAQUELINE DE OLIVEIRA ROSA,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,6,mes,2,4,LW-34/16,73,666,AAA,666,AAA,1527044400,1527030603,666,1527163893
+296,JAQUELINE DE OLIVEIRA ROSA,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Swiss-2,6,mes,2,4,LW-34/16,100,34010133,1-34<br />1-33,378,7-42,1527044400,1527102008,1527604645,1532366559
+297,Stellee Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,60,dia,1,1,LW-XX/XX,666,2147483647,5-56<br />5-55<br />5-54<,2147483647,1-33<br />1-33<br />1-33<,1528254000,1528291243,1528291953,1528291953
+298,Gabriela Xavier,gabrielaxavier13@gmail.com,Usuário Externo,UFPR,Balb/c,5,dia,1,1,LW-XX/XX,666,70,2-14,338,7-2,1528945200,1528291353,1528977922,1528977922
+299,Bernardo Papini Gabiatti (orientação Prof. Nilson Zanchin/Profa. Fabiola Holetz),bgabiatti@gmail.com,LABREG,-,Balb/c,3,mes,5,5,LW-34/16,76,65,2-9,354,7-18,1529895600,1529430280,1532535793,1537963817
+300,Kamille Schmitt Pereira,kami.schmitt@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,LW-34/16,79,82,2-26,346,7-10,1530068400,1530035046,1530805112,1535570374
+301,Diogo Kuczerwa,diogokuczera@hotmail.com,VIROMOL,-,S129KO,24,dia,1,1,003/18,90,2147483647,6-56<br />6-55<br />6-54<,352,7-16,1530586800,1530040655,1533042992,1534769138
+302,Ana Angélica,aasteil@univali.br,Usuário Externo,Univali,Balb/c,15,dia,1,1,LW-XX/XX,666,2147483647,2-29<br />2-28<br />2-27<,2147483647,8-14<br />8-13<br />8-12<,944013600,1530709894,1531831091,1531831091
+303,Ana Luiza Pamplona Mosimann,analuizamosimann@gmail.com,VIROMOL,-,Balb/c,4,dia,60,5,LW-30/17,8,666,AAA,666,AAA,1531969200,1532006593,666,1532008176
+304,Camila Zanluca,camihhh@gmail.com,VIROMOL,-,Balb/c,4,mes,2,5,LW-2/17,72,80,2-24,351,7-15,1533178800,1533042117,1533044231,1537964009
+305,Andrea Ribeiro,senffribeiro@gmail.com,Usuário Externo,UfPR,C57BL/6,30,dia,1,1,LW-XX/XX,666,2147483647,4-44<br />4-43<br />4-41<,2147483647,7-9<br />1-14<br />1-14<b,1533265200,1533217719,1533649227,1533649227
+306,Leonardo Foti,leofoti@gmail.com,LABGEN,-,Balb/c,38,dia,3,1,002/18,346,2147483647,2-56<br />2-54<br />2-52<,372,7-36,1534734000,1533648508,1534266643,1537965318
+307,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,AG129,24,dia,21,1,003/18,114,666,AAA,666,AAA,1534734000,1534170180,666,1538491437
+308,Camila Zanluca,camila.zanluca@fiocruz.br,VIROMOL,-,Balb/c,3,mes,3,5,LW-2/17,69,85,2-29,359,7-23,1534993200,1534800619,1535137263,1541421797
+309,Ciro Alberto de Oliveira Ribeiro,ciro@ufpr.br,Usuário Externo,UFPR,C57BL/6,50,dia,1,1,LW-XX/XX,666,2147483647,5-54<br />5-52<br />5-50<,2147483647,1-1<br />1-1<br />1-1<br ,1534820400,1534852087,1534856735,1534856735
+310,Ciro Alberto de Oliveira Ribeiro,ciro@ufpr.br,Usuário Externo,UFPR,C57BL/6,11,dia,1,1,LW-XX/XX,666,2147483647,4-50<br />4-30<br />4-29,2147483647,1-39<br />1-1<br />1-1,1534820400,1534873523,1534873577,1534873577
+311,Lígia,ligiamiyazato@gmail.com,Usuário Externo,Universidade Federal de Santa Maria - UFSM,Balb/c,30,dia,1,1,LW-XX/XX,666,2147483647,5-55<br />5-51<br />5-49<,2147483647,1-1<br />1-1<br />1-1<br ,1536202800,1535560090,1536233883,1536233883
+312,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,4,mes,2,5,018/18,56,93,2-37,362,7-26,1535943600,1535726927,1536084075,1541421797
+313,Fabiano Borges Figueiredo,fabiano.figueiredo@fiocruz.br,LBC,-,Balb/c,12,dia,20,1,005/18,488,2147483647,2-52<br />2-48<br />2-47,360,7-24,1536202800,1536091768,1536234018,1539280662
+314,Leonardo Foti,leofoti@gmail.com,LABREG,-,Balb/c,40,dia,1,1,002/18,340,2147483647,6-54<br />6-53,371,7-35,1538103600,1538151062,1538491549,1541697332
+315,Gabriela Xavier Schneider,gabrielaxavier13@gmail.com,Usuário Externo,UFPR,Balb/c,6,dia,1,1,LW-XX/XX,666,2147483647,6-2<br />6-1,7010122,1-7<br />1-22,1538449200,1538478228,1538491814,1538491814
+316,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,AG129,10,dia,21,1,003/18,114,666,AAA,666,AAA,1538449200,1538484552,666,1538491446
+317,Leonardo Foti,leofoti@gmail.com,LABREG,-,Balb/c,34,dia,1,1,002/18,308,2147483647,6-4<br />6-3<br />6-2<br ,355,7-19,1538449200,1538492112,1538502184,1541697333
+318,Juliano Bordignon ,bordignonjuliano@gmail.com,VIROMOL,-,S129KO,10,dia,1,1,003/18,80,2147483647,8-13<br />8-12<br />8-11,2147483647,7-43<br />7-42<br />7-41,1538449200,1538506752,1538506901,1539179148
+319,Eloise P. G. Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,20,dia,9,14,006/18,97,2147483647,2-52<br />2-51<br />2-50<,373,7-37,1542592800,1538582376,1541502975,1545906618
+320,Ana Angélica Steil,aasteil@univali.br,Usuário Externo,UNIVALI,Balb/c,50,dia,1,4,LW-XX/XX,666,2147483647,4-51<br />4-50<br />4-48<,2147483647,1-1<br />1-32<br />1-1<br,1548208800,1539803385,1548333819,1548333819
+321,Aline Miranda Cristal,aline.micristal@gmail.com,Usuário Externo,UFPR - Biologia Celular,C57BL/6,30,dia,35,10,1025,666,2147483647,4-43<br />4-42<br />4-40<,2147483647,8-32<br />8-33<br />8-34<,1542160800,1540943666,1542195015,1542195015
+322,Beatriz Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,7,mes,6,1,005/18,481,2147483647,8-12<br />8-11,16,1-16,1541469600,1541426663,1541442635,1552922794
+323,Aline Miranda Cristal,aline.micristal@gmail.com,Usuário Externo,UFPR - Biologia Celular,C57BL/6,30,dia,35,10,CEUA 1025,666,2147483647,4-54<br />4-52<br />4-51<,2147483647,8-33<br />8-34<br />8-35<,1542160800,1541725652,1542195929,1542195929
+324,Eloise Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,3,mes,2,1,006/18,94,61,2-5,381,7-45,1542592800,1541786559,1541786643,1545906751
+325,Vanete Thomaz Soccol,vaneetsoccol@gmail.com,Usuário Externo,UFPR,Balb/c,5,dia,5,1,23075.101328/2017-69,666,67,2-11,1,1-1,1541988000,1541875849,1542124615,1542124615
+326,Universidade Federal da Fronteira Sul,cladis.lutinski@uffs.edu.br,Usuário Externo,UNiversidade Federal da Fronteira Sul,Balb/c,60,dia,1,1,LW-XX/XX,666,2147483647,6-47<br />6-37<br />6-36<,2147483647,1-16<br />1-15<br />1-14<,1542679200,1542036627,1542894175,1542894175
+327,Universidade Federal da Fronteira Sul,cladis.lutinski@uffs.edu.br,Usuário Externo,Universidade Federal da Fronteira Sul,Swiss,60,dia,1,1,LW-XX/XX,666,2147483647,8-48<br />8-47,67010161,2-11<br />2-5,1542679200,1542036672,1542895246,1542895246
+328,Letusa Albrecht (Luiz Fernando Cardoso Garcia),letusaa@gmail.com,LABREG,-,Balb/c,3,dia,60,3,LW-34/16,73,333,6-53,353,7-17,1542592800,1542210747,1543491469,1547469030
+329,Stelle Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,4,dia,1,1,LW-XX/XX,666,218,4-50,1,1-1,1542160800,1542210844,1542210919,1542210919
+330,Gustavo Gonçalves,gustavogonsalves@live.com,LBC,-,Balb/c,7,mes,3,3,005/18,478,308,6-28,8,1-8,1542592800,1542647633,1542894175,1558552514
+331,Flavia Souza Morini,bioflavia@gmail.com,LABGEN,-,Swiss-2,5,dia,30,4,LW-34/16,100,666,AAA,666,AAA,1542852000,1542822559,666,1542996356
+332,Leonardo Foti,leofoti@gmail.com,LABGEN,0,Balb/c,40,dia,60,1,002/18,308,2147483647,6-53<br />6-48<br />6-46<,2147483647,7-47<br />7-39<br />7-31<,1543802400,1542892784,1543248792,1543248792
+333,Cladis Lurinski,cladis.lutinski@uffs.edu.br,Usuário Externo, Universidade da Fronteira sul,Balb/c,30,dia,1,1,0,666,2147483647,4-18<br />4-17<br />4-12<,2147483647,1-15<br />1-14<br />1-13<,1542852000,1542896495,1542898125,1542898125
+334,Cladis Lutinski,cladis.lutinski@uffs.edu.br,Usuário Externo,Universidade da Fronteira sul,Swiss,58,dia,1,1,0,666,2147483647,1-54<br />1-53<br />1-52<,2147483647,1-30<br />1-28<br />1-22<,1542852000,1542896629,1542906486,1542906486
+335,Gustavo Gonçalves,gustavogonsalves@live.com,LBC,-,Balb/c,4,dia,1,1,005/18,474,61,2-5,16,1-16,1542938400,1542998355,1542998396,1558552514
+336,Vanete Thomaz Soccol,vanetesoccol@gmail.com,Usuário Externo,UFPR,Balb/c,70,mes,3,3,23075 067819 2018-16,666,2147483647,3-23<br />3-22<br />3-21<,2147483647,1-3<br />1-3<br />1-3<br ,1551322800,1544027135,1551358511,1551358511
+337,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,2,mes,2,5,018/18,54,1010101101,2-45<br />2-45,339,7-3,1544666400,1544188144,1544528035,1549969921
+338,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,2,mes,2,5,018/18,52,666,AAA,666,AAA,1544666400,1544188156,666,1544188869
+339,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,2,mes,2,5,018/18,52,666,AAA,666,AAA,1544666400,1544188168,666,1544188846
+340,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,2,mes,2,5,018/18,52,666,AAA,666,AAA,1544666400,1544188180,666,1544188822
+341,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,2,mes,2,5,018/18,52,666,AAA,666,AAA,1544666400,1544188192,666,1544188751
+342,Beatriz Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,6,mes,6,1,005/18,468,99010198,2-43<br />2-42,40,1-40,1545271200,1545054264,1545222707,1552922761
+343,Beatriz Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,6,mes,6,1,005/18,421,666,AAA,666,AAA,1545271200,1545054276,666,1545066065
+344,Beatriz Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,6,mes,6,1,005/18,421,666,AAA,666,AAA,1545271200,1545054288,666,1545066053
+345,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,8,mes,2,4,028/18,32,102010182,2-46<br />2-26,27,1-27,1545184800,1545225810,1545397961,1550775760
+346,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,8,mes,2,4,028/18,20,666,AAA,666,AAA,1545184800,1545225822,666,1545395499
+347,Ana Angélica Steil,aasteil@univali.br,Usuário Externo,UNIVALI,Balb/c,14,dia,1,1,LW-XX/XX,666,2147483647,4-54<br />4-53<br />4-52,2147483647,1-1<br />1-1<br />1-1,1548208800,1546425857,1548333820,1548333820
+348,Ana Angélica Steil,aasteil@univali.br,Usuário Externo,UNIVALI,Balb/c,14,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1548208800,1546425869,666,1546425935
+349,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,30,dia,60,1,1207 (CEUA-BIO - UFPR),666,666,AAA,666,AAA,1550458800,1547036630,666,1548349058
+350,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,30,dia,60,1,1207 (CEUA-BIO - UFPR),666,2147483647,9-48<br />9-47<br />9-46<,2147483647,1-2<br />1-2<br />1-36<br,1550458800,1547036642,1550495863,1550495863
+351,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,Swiss,10,dia,60,1,1207 (CEUA-BIO - UFPR),666,2147483647,7-4<br />7-3,36010136,1-36<br />1-36,1550458800,1547036685,1550496096,1550496096
+352,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,Swiss,10,dia,60,1,1207 (CEUA-BIO - UFPR),666,666,AAA,666,AAA,1550458800,1547036697,666,1547117960
+353,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,10,dia,60,1,1207 (CEUA-BIO - UFPR),666,2147483647,9-35<br />9-30<br />9-29,2147483647,1-36<br />1-36<br />1-36,1550458800,1548355075,1550495863,1550495863
+354,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,Swiss,10,dia,60,1,1207 (CEUA-BIO - UFPR),666,666,AAA,666,AAA,1550458800,1548355123,666,1548438561
+355,Felipe Yukio Ishikawa Fragoso,yukio.ishikawa@gmail.com,Usuário Externo,Pontifícia Universidade Católica do Paraná,Balb/c,40,mes,8,4,CEUA: 01242,666,666,AAA,666,AAA,1549591200,1549286560,666,1549287680
+356,Felipe Yukio Ishikawa Fragoso,yukio.ishikawa@gmail.com,Usuário Externo,Pontifícia Universidade Católica do Paraná,Balb/c,10,mes,2,1,CEUA- 01242,666,1550101154,3-43<br />3-42,301013,1-3<br />1-3,1555642800,1549286719,1554811640,1554811640
+357,Felipe Yukio Ishikawa Fragoso,yuklio.ishikawa@gmail.com,Usuário Externo,Pontifícia Universidade Católica do Paraná,,10,mes,2,1,CEUA - 01242,666,82010167,2-26<br />2-11,401014,1-4<br />1-4,1561086000,1549286802,1560792423,1560792423
+358,Felipe Yukio Ishikawa Fragoso,yukio.ishikawa@gmail.com,Usuário Externo,Pontifícia Universidade Católica do Paraná,Balb/c,10,mes,2,1,CEUA 01242,666,666,AAA,666,AAA,1566529200,1549286877,666,666
+359,Felipe Yukio Ishikawa Fragoso,yukio.ishikawa@gmail.com,Usuário Externo,Pontifícia Universidade Católica do Paraná,Balb/c,10,dia,1,1,01242,666,1930101192,4-25<br />4-24,24010124,1-24<br />1-24,1549591200,1549287661,1549643422,1549643422
+360,Pryscilla Fanini Wowk,pryscilla@wowk.com.br,Usuário Externo,Instituto de Biologia Molecular do Paraná,C57BL/6,150,mes,6,1,LW-4/19,350,2147483647,9-8<br />9-7<br />9-6<br ,2147483647,1-31<br />1-31<br />1-30<,1551841200,1549303821,1549363795,1549363795
+361,Beatriz Santana Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,15,mes,12,1,005/18,453,2147483647,2-40<br />2-39<br />2-37,40,1-40,1550109600,1549457810,1549642941,666
+362,Andrea Senff Ribeiro,senffribeiro@gmail.com,Usuário Externo,Universidade Federal do Paraná,C57BL/6,50,dia,1,1,LW-XX/XX,666,2147483647,8-16<br />8-15<br />8-13<,2147483647,1-31<br />1-31<br />1-31<,1549418400,1549477764,1549477953,1549477953
+363,Allan Cataneo,allancataneo1@gmail.com,VIROMOL,-,S129KO,52,dia,1,1,003/18,42,2147483647,3-25<br />3-24<br />3-23<,14,1-14,1549591200,1549643793,1549644672,1551104392
+364,Juliano Bordignon,bordignonjuliano@gmail.com,VIROMOL,-,Balb/c,2,mes,2,4,018/18,52,112,2-56,11,1-11,1549591200,1549644246,1549644319,1555591264
+366,Giovanna Zuzarte Candido,giovannadf@hotmail.com,Usuário Externo,UFPR - LABMICRO,Balb/c,15,dia,15,1,CEUA UFPR-1179,666,666,AAA,666,AAA,1550109600,1550077232,666,1550847906
+365,Giovanna Zuzarte,giovannadf@hotmail.com,Usuário Externo,Universidade Federal do Paraná,Balb/c,15,dia,1,1,,666,2147483647,4-56<br />4-50<br />4-46<,2147483647,1-24<br />1-24<br />1-24<,1549591200,1549645001,1549645116,1549645116
+367,Leonardo Foti,leofoti@gmail.com,LABGEN,-,Balb/c,40,dia,60,2,002/18,295,2147483647,2-56<br />2-55<br />2-54,18,1-18,1550458800,1550079728,1550663241,1558553653
+368,Leonado Foti,leofoti@gmail.com,LABGEN,-,Balb/c,40,dia,60,2,002/18,255,2147483647,2-11<br />2-10<br />2-7<b,26,1-26,1552273200,1550079790,1556627856,666
+369,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,40,dia,60,1,1207 (CEUA-BIO - UFPR),666,2147483647,6-15<br />6-14<br />6-11<,2147483647,1-37<br />1-3<br />1-37<b,1552446000,1550684081,1552332890,1552332890
+370,Beatriz Borges,biasborges@gmail.com,LBC,-,S129KO,3,mes,3,1,003/18,31,186,4-18,39,1-39,1551322800,1550771350,1551359876,1555591186
+371,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,20,dia,9,14,006/18,74,2147483647,2-7<br />2-6<br />2-5<br ,51,1-51,1552273200,1550859512,1552048696,1553005829
+372,Allan Cataneo,allancataneo1@gmail.com,VIROMOL,-,S129KO,8,dia,14,1,003/18,34,401013,1-4<br />1-3,50010149,1-50<br />1-49,1551063600,1550863142,1551206060,1552304081
+373,Camila Zanluca,camila.zanluca@fiocruz.br,VIROMOL,-,Balb/c,3,mes,3,5,LW-2/17,66,73,2-17,5,1-5,1552273200,1551891303,1552049287,1558553004
+374,Pryscilla Wowk,pryscilla@wowk.com.br,Usuário Externo,IBMP,C57BL/6,110,dia,1,1,LW-4/19,240,2147483647,6-55<br />6-54<br />6-47<,2147483647,1-33<br />1-33<br />1-3<b,1552964400,1552996144,1552996610,1552996610
+375,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,4,dia,4,2,006/18,70,58,2-2,6,1-6,1553482800,1553026923,1553170889,1554820407
+376,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,20,dia,9,14,006/18,50,2147483647,2-22<br />2-17<br />2-2<b,53,1-53,1554087600,1553026985,1554122891,1554820408
+377,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,21,dia,90,1,1207 (CEUA-BIO - UFPR),666,2147483647,9-42<br />9-41<br />9-8<b,2147483647,1-39<br />1-3<br />1-3<br,1554692400,1553110185,1554320115,1554320115
+378,Beatriz Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,8,mes,2,1,005/18,445,59010157,2-3<br />2-1,52,1-52,1553137200,1553173444,1553174222,1554820697
+379,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,40,dia,60,1,1207 (CEUA-BIO - UFPR),666,2147483647,9-14<br />9-13<br />9-12<,2147483647,1-35<br />1-3<br />1-3<br,1559530800,1553533947,1555961599,1555961599
+380,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,Swiss,10,dia,60,1,1207 (CEUA-BIO - UFPR),666,2147483647,6-12<br />6-11,3701016,1-37<br />1-6,1559530800,1553534000,1556109758,1556109758
+381,Silvio Sanches Veiga,lidibona@gmail.com,Usuário Externo,Universidade Federal do Paraná,Swiss,10,dia,1,1,230750058792018-45,666,2147483647,6-52<br />6-26,3301013,1-33<br />1-3,1553742000,1553543100,1553774476,1553774476
+382,Stelle Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,60,dia,1,1,LW-XX/XX,666,2147483647,9-55<br />9-54<br />9-53<,2147483647,1-35<br />1-35<br />1-35<,1553742000,1553776007,1553776291,1553776291
+383,Beatriz Borges,biasborges@gmail.com,LBC,-,Balb/c,12,mes,2,1,005/18,433,2147483647,2-26<br />2-15<br />2-14,16,1-16,1554174000,1553884519,1554122732,666
+400,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,12,dia,30,1,1207 (CEUA-BIO - UFPR),666,2147483647,5-46<br />5-45<br />5-44,2147483647,1-7<br />1-7<br />1-7,1560135600,1558718378,1560449188,1560449188
+384,Stellee Biscaia,stellee.biscaia@gmail.com,Usuário Externo,UFPR,C57BL/6,60,dia,1,1,LW-XX/XX,666,666,AAA,666,AAA,1554260400,1554319373,666,1554319485
+385,Andrea Senff,senffribeiro@gmail.com,Usuário Externo,UFPR,C57BL/6,50,dia,1,1,LW-XX/XX,666,2147483647,7-28<br />7-27<br />7-26<,2147483647,1-3<br />1-3<br />1-3<br ,1554260400,1554319426,1554319725,1554319725
+386,Larissa M Alvarenga,lmalvarenga@gmail.com,Usuário Externo,UFPR,Balb/c,8,dia,30,1,796,666,2147483647,2-40<br />2-39<br />2-31,2147483647,1-3<br />1-3<br />1-3,1555038000,1554836598,1555075746,1555075746
+387,Beatriz Borges,beatrizsborges@hotmail.com,LBC,-,Balb/c,4,mes,2,1,005/18,429,79,2-23,31,1-31,1555556400,1555535642,1556023394,666
+388,Beatriz Borges,biasborges@gmail.com,LBC,-,Balb/c,2,mes,2,1,005/18,427,88,2-32,39,1-39,1555988400,1556029863,1556109220,666
+389,Vitor Valério Maffili ,vitor.maffili@fiocruz.br,Usuário Externo,Fiocruz Bahia,,20,dia,1,1,LW-XX/XX,666,2147483647,6-52<br />6-50<br />6-46<,2147483647,1-37<br />1-6<br />1-37<b,1556161200,1556199973,1556200265,1556200265
+390,Leonardo Foti,leofoti@gmail.com,Usuário Externo,GEN,C57BL/6,10,dia,1,1,LW-XX/XX,666,2147483647,9-22<br />9-15,601016,1-6<br />1-6,1556506800,1556285992,1556286627,1556286627
+391,Bruno Jacson Martynhak,brunomartynhak@gmail.com,Usuário Externo,UFPR - Departamento de Fisiologia,C57BL/6,30,dia,15,1,1207 (CEUA-BIO - UFPR),666,666,AAA,666,AAA,1557111600,1556562979,666,1557767568
+392,Pryscilla Wowk,pryscilla@wowk.com.br,IBMP,-,DBA/1J,10,dia,1,1,LW-4/19,490,1950101194,4-27<br />4-26,11010112,1-11<br />1-12,1556766000,1556809204,1556809299,1558552428
+393,teste,danielle.camargo@cits.br,LABCET,-,C57BL/6,1,dia,1,1,LW-4/19,240,666,AAA,666,AAA,1557198000,1557168316,666,1557168341
+394,Gabriela Xavier Schneider,gabrielaxavier13@gmail.com,Usuário Externo,UFPR - Centro Politécnico,Balb/c,12,dia,12,1,1179,666,90010189,2-34<br />2-33,4701016,1-47<br />1-6,1558321200,1557344706,1557927444,1557927444
+395,Andrea Senff Ribeiro,senffribeiro@gmail.com,Usuário Externo,UFPR,,50,dia,30,20,UFPR CEUA n730,666,2147483647,5-40<br />5-39<br />5-38<,2147483647,1-42<br />1-43<br />1-4<b,1560135600,1557755503,1559300271,1559300271
+396,Breno Castello Branco Berião,imunova@imunova.com.br,Imunova,-,Balb/c,6,dia,65,3,002/19,44,98010180,2-42<br />2-24,20,1-20,1557716400,1557766408,1557767676,666
+397,Pryscilla Wowk,pryscilla@wowk.com.br,VIROMOL,-,S129KO,35,dia,3,1,LW-3/19,875,2147483647,3-56<br />3-53<br />3-52<,4,1-4,1558321200,1558025182,1558093837,1560449474
+398,Pryscilla Wowk,pryscilla@wowk.com.br,VIROMOL,-,S129KO,70,dia,3,1,LW-3/19,805,2147483647,3-47<br />3-46<br />3-45<,15,1-15,1559012400,1558025226,1559152211,1560449474
+399,Gustavo Gonçalves,gustavogonsalves@live.com,LBC,-,Balb/c,3,mes,3,1,005/18,424,58,2-2,47,1-47,1558062000,1558025388,1558031250,666
+401,Eloise Pavão Guerra Slompo,eloguerra@gmail.com,LPEP,-,Balb/c,20,dia,9,14,006/18,30,2147483647,2-40<br />2-32<br />2-31<,30,1-30,1560481200,1559053140,1559743435,666
+402,Guilhermina R Noleto,guinoleto@yahoo.com.br,Usuário Externo,UFPR,Balb/c,3,dia,20,1,1130,666,102010193,2-46<br />2-37,701017,1-7<br />1-7,1559530800,1559133696,1560431323,1560431323
+403,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,8,mes,2,4,028/18,24,102010194,2-46<br />2-38,13,1-13,1559530800,1559138030,1560431151,666
+404,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,4,mes,2,4,028/18,20,93,2-37,21,1-21,1559530800,1559138267,1560431202,666
+405,Bruna Jacomel Favoreto de Souza Lima,jacomel.bruna@gmail.com,Usuário Externo,Universidade Federal do Paraná,Balb/c,8,dia,21,1,1179,666,666,AAA,666,AAA,1560913200,1559586992,666,1560797468
+407,Jaqueline de Oliveira Rosa,jaquedeoliveirarosa@gmail.com,BIOMOLTRIP,-,Balb/c,12,mes,2,4,023/18,32,666,AAA,666,AAA,1560481200,1560533751,666,666
+406,Gustavo Gonçalves,gustavogonsalves@live.com,LBC,-,Balb/c,3,mes,4,5,005/18,421,71,2-15,7,1-7,1560481200,1560192175,1560862722,666
+408,Gisiane Gruber,gisianegruber@gmail.com,VIROMOL,-,Balb/c,3,mes,2,5,003/18,111,72,2-16,4,1-4,1560999600,1560534457,1560792705,666
