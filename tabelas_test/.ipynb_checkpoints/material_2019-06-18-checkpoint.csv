@@ -1,0 +1,35 @@
+id,nome_mater,sigl_mater,quant_mater,sn_mater,patri_mater
+3,Autoclave Barreira,AUTOCL,1,151544		,151544		
+4,Autoclave Barreira,AUTOC,1,151545,151545
+5,Fluxo Laminar,FL,1,138259,138259
+6,Fluxo Laminar,FL,1,138260,138260
+7,Rack Pressão Negativa		,NEGATIVA,1,155981,155981
+8,Rack Pressão Negativa,NEGATIVA,1,155982,155982
+9,Rack Pressão Positiva,POSITIVA,1,139276,139276
+10,Rack Pressão Positiva,POSITIVA,1,139275,139275
+11,Rack Pressão Positiva,POSITIVA,1,139274,139274
+12,Rack Pressão Positiva,POSITIVA,1,139273,139273
+13,Rack Pressão Positiva,POSITIVA,1,124668,124668
+14,Computador,PC,1,154923,154923
+15,Computador,PC,1,138651,138651
+16,Armário G,ARMG,1,153882,153882
+17,Armário G,ARMG,1,153883,153883
+18,Armário M,ARMM,1,153887,153887
+19,Armário M,ARMM,1,153885,153885
+20,Armário M	,ARMM,1,153884,153884
+21,Armário M,ARMM,1,153886,153886
+22,Cadeira		,ADM,1,154026		,154026		
+23,Cadeira		,TI,1,154027		,154027		
+24,Cadeira,ADM,1,154028		,154028		
+25,Cadeira,ADM,1,154029		,154029		
+26,Cadeira,ADM,1,154030		,154030		
+27,Cadeira,ADM,1,154031,154031
+28,Cadeira,ADM,1,154032,154032
+29,Gaveiteiro (3 gavetas)		,GAV3,1,154020		,154020		
+30,Gaveiteiro (3 gavetas)	,GAV3,1,154021		,154021		
+31,Gaveiteiro (3 gavetas)	,GAV3,1,154018		,154018		
+32,Gaveiteiro (3 gavetas),GAV3,1,154017,154017
+33,Gaveiteiro (3 gavetas)		,GAV3,1,154022		,154022		
+34,Gaveiteiro (3 gavetas)		,GAV3,1,154023		,154023		
+35,Gaveiteiro (3 gavetas 1 porta arquivo)		,GAV3G1PA,1,154024		,154024		
+36,Gaveiteiro (3 gavetas 1 porta arquivo),GAV3G1PA,1,154025		,154025		
